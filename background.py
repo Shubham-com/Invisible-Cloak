@@ -4,7 +4,7 @@ Created on Wed Jul 15 11:49:40 2020
 
 @author: HP
 """
-
+#In this we are Specifying the background of the image
 import cv2
 # THIS IS MY WEBCAM
 cap = cv2.VideoCapture(0)
